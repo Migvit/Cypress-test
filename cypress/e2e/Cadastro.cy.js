@@ -1,7 +1,7 @@
 
 const { faker, Faker } = require('@faker-js/faker');
 beforeEach('visit',()=>{
-    cy.visit('http://lojaebac.ebaconline.art.br/minha-conta/')
+    cy.visit('minha-conta/')
   })
   
   context('Should register', ()=>{

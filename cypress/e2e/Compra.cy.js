@@ -1,5 +1,5 @@
 beforeEach('visit',()=>{
-  cy.visit('http://lojaebac.ebaconline.art.br/produtos')
+  cy.visit('produtos')
 })
 
 context('Should login', ()=>{
