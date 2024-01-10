@@ -1,6 +1,7 @@
 {
 
 "user": "aluno_ebac@teste.com",
-"password": "teste@teste.com"
-
+"password": "teste@teste.com",
+"errorUser": "aluno_ebac@teste.com",
+"errorPassword":"teste@teste"
 }
