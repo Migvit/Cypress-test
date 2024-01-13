@@ -3,5 +3,25 @@
 "user": "aluno_ebac@teste.com",
 "password": "teste@teste.com",
 "errorUser": "aluno_ebac@teste.com",
-"errorPassword":"teste@teste"
+"errorPassword":"teste@teste",
+
+"email1": "marcos@gmail.com",
+"password1": "sss@@@123",
+"firstName1": "Marcus",
+"lastName1": "Castro",
+    "streetAddress1": "Av. Castro de Melo",
+    "city1": "São Paulo",
+    "cep1": "14256387",
+    "phoneNumber1": "11945268731",
+
+
+
+    "email2": "marcos@gmail.com",
+    "password2": "sss@@@123",
+    "firstName2": "Marcus",
+    "lastName2": "Castro",
+    "streetAddress2": "Av. Castro de Melo",
+    "city2": "São Paulo",
+    "cep2": "14256387",
+    "phoneNumber2": "11945268731"
 }
